@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements
+END
+sql_log_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/sql_log_panel.ctp
+END
+timer_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/timer_panel.ctp
+END
+log_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/log_panel.ctp
+END
+session_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/session_panel.ctp
+END
+memory_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/memory_panel.ctp
+END
+request_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/request_panel.ctp
+END
+variables_panel.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/variables_panel.ctp
+END
+debug_toolbar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/debug_toolbar.ctp
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cakephp/debug_kit/!svn/ver/1869/tags/1.0/views/elements/empty
+END
